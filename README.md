@@ -49,6 +49,13 @@
 
 ---
 
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torikul1&theme=tokyo-night"/>
+</p>
+
 # 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torikul1&layout=compact&theme=tokyonight)
