@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat">
+<img src="https://komarev.com/ghpvc/?username=torikul1&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
 ---
@@ -32,7 +32,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=torikul1&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=torikul1&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 # 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torikul1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
