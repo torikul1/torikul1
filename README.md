@@ -67,6 +67,9 @@
 ![Snake animation](https://github.com/torikul1/torikul1/blob/output/github-contribution-grid-snake.svg)
 
 ---
+## 🟡 Pac-Man Contribution Game
+
+![pacman contribution graph](https://github.com/torikul1/torikul1/blob/output/pacman-contribution-graph.svg)
 
 # 📫 Connect With Me
 
